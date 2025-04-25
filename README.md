@@ -1,4 +1,4 @@
-# Contains backend files for [Exam Seat Arrangement System](https://github.com/Sudhi27Krishna/Exam-Seat-Arrangement-System)
+# Contains frontend files for [Exam Seat Arrangement System](https://github.com/Zackyute/Exam-Seat-Arrangement-System)
 
 
 1. Clone the repository
